@@ -217,7 +217,7 @@ export default function App() {
             marginBottom: 16,
           }}
         >
-          Welcome to <span style={{ color: "#378ADD" }}>Mern</span>
+          Welcome to <span style={{ color: "#378ADD" }}>DevOps</span>
           <br />
           Ship faster. Break nothing.
         </h1>
@@ -241,6 +241,7 @@ export default function App() {
             flexWrap: "wrap",
           }}
         >
+          0
           {[
             ["0", "downtime deploys"],
             ["5", "pipeline stages"],
