@@ -217,7 +217,7 @@ export default function App() {
             marginBottom: 16,
           }}
         >
-          Welcome to <span style={{ color: "#378ADD" }}>Python</span>
+          Welcome to <span style={{ color: "#378ADD" }}>QA</span>
           <br />
           Ship faster. Break nothing.
         </h1>
