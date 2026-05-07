@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  react-app:
+    image: siddhartha54/react-app
+    container_name: react-app
+    ports:
+      - "5173:5173"
+    command: ["npm", "run", "dev", "--", "--host"]
+    restart: always
+
+    

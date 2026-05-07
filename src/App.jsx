@@ -217,7 +217,7 @@ export default function App() {
             marginBottom: 16,
           }}
         >
-          Welcome to <span style={{ color: "#378ADD" }}>DevOps</span>
+          Welcome to <span style={{ color: "#378ADD" }}>Mern</span>
           <br />
           Ship faster. Break nothing.
         </h1>
